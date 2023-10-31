@@ -20,7 +20,7 @@ Console.WriteLine(number10 *= number10);
 int sum(int[] numbers)
 {
     int result = 0;
-    foreach (var number in numbers)
+    foreach (var number in numbers) //parameters
     {
         result = result + number;
     }
