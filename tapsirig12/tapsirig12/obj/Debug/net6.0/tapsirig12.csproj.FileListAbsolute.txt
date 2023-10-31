@@ -1,0 +1,28 @@
+C:\Users\User\source\repos\tapsirig12\tapsirig12\bin\Debug\net6.0\tapsirig12.exe
+C:\Users\User\source\repos\tapsirig12\tapsirig12\bin\Debug\net6.0\tapsirig12.deps.json
+C:\Users\User\source\repos\tapsirig12\tapsirig12\bin\Debug\net6.0\tapsirig12.runtimeconfig.json
+C:\Users\User\source\repos\tapsirig12\tapsirig12\bin\Debug\net6.0\tapsirig12.dll
+C:\Users\User\source\repos\tapsirig12\tapsirig12\bin\Debug\net6.0\tapsirig12.pdb
+C:\Users\User\source\repos\tapsirig12\tapsirig12\obj\Debug\net6.0\tapsirig12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\tapsirig12\tapsirig12\obj\Debug\net6.0\tapsirig12.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\tapsirig12\tapsirig12\obj\Debug\net6.0\tapsirig12.AssemblyInfo.cs
+C:\Users\User\source\repos\tapsirig12\tapsirig12\obj\Debug\net6.0\tapsirig12.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\tapsirig12\tapsirig12\obj\Debug\net6.0\tapsirig12.dll
+C:\Users\User\source\repos\tapsirig12\tapsirig12\obj\Debug\net6.0\refint\tapsirig12.dll
+C:\Users\User\source\repos\tapsirig12\tapsirig12\obj\Debug\net6.0\tapsirig12.pdb
+C:\Users\User\source\repos\tapsirig12\tapsirig12\obj\Debug\net6.0\tapsirig12.genruntimeconfig.cache
+C:\Users\User\source\repos\tapsirig12\tapsirig12\obj\Debug\net6.0\ref\tapsirig12.dll
+C:\Users\User\Desktop\visual studio\tapsirig-\tapsirig12\tapsirig12\bin\Debug\net6.0\tapsirig12.exe
+C:\Users\User\Desktop\visual studio\tapsirig-\tapsirig12\tapsirig12\bin\Debug\net6.0\tapsirig12.deps.json
+C:\Users\User\Desktop\visual studio\tapsirig-\tapsirig12\tapsirig12\bin\Debug\net6.0\tapsirig12.runtimeconfig.json
+C:\Users\User\Desktop\visual studio\tapsirig-\tapsirig12\tapsirig12\bin\Debug\net6.0\tapsirig12.dll
+C:\Users\User\Desktop\visual studio\tapsirig-\tapsirig12\tapsirig12\bin\Debug\net6.0\tapsirig12.pdb
+C:\Users\User\Desktop\visual studio\tapsirig-\tapsirig12\tapsirig12\obj\Debug\net6.0\tapsirig12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\visual studio\tapsirig-\tapsirig12\tapsirig12\obj\Debug\net6.0\tapsirig12.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\visual studio\tapsirig-\tapsirig12\tapsirig12\obj\Debug\net6.0\tapsirig12.AssemblyInfo.cs
+C:\Users\User\Desktop\visual studio\tapsirig-\tapsirig12\tapsirig12\obj\Debug\net6.0\tapsirig12.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\visual studio\tapsirig-\tapsirig12\tapsirig12\obj\Debug\net6.0\tapsirig12.dll
+C:\Users\User\Desktop\visual studio\tapsirig-\tapsirig12\tapsirig12\obj\Debug\net6.0\refint\tapsirig12.dll
+C:\Users\User\Desktop\visual studio\tapsirig-\tapsirig12\tapsirig12\obj\Debug\net6.0\tapsirig12.pdb
+C:\Users\User\Desktop\visual studio\tapsirig-\tapsirig12\tapsirig12\obj\Debug\net6.0\tapsirig12.genruntimeconfig.cache
+C:\Users\User\Desktop\visual studio\tapsirig-\tapsirig12\tapsirig12\obj\Debug\net6.0\ref\tapsirig12.dll
